@@ -4,4 +4,5 @@ assignment3/cs231n/datasets/*
 *.pyc
 .env/*
 *.swp
+.idea/*
 
